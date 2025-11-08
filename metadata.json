@@ -1,0 +1,5 @@
+{
+  "name": "WebRadio Pro",
+  "description": "A professional, responsive web radio application with live streaming, visualizer, and WhatsApp song requests.",
+  "requestFramePermissions": []
+}
